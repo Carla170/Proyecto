@@ -1,0 +1,12 @@
+C:\Proyecto\Proyecto\x64\Debug\Proyecto.vcxproj.AssemblyReference.cache
+C:\Proyecto\Proyecto\x64\Debug\Proyecto.vcxproj.SuggestedBindingRedirects.cache
+C:\Proyecto\Proyecto\x64\Debug\Proyecto.Inicio.resources
+C:\Proyecto\Proyecto\x64\Debug\Proyecto.vcxproj.GenerateResource.cache
+C:\Proyecto\Proyecto\x64\Debug\Proyecto.exe
+C:\Proyecto\Proyecto\x64\Debug\Proyecto.Lenguaje.resources
+C:\Proyecto\Proyecto\x64\Debug\Proyecto.Algoritmo.resources
+C:\Proyecto\Proyecto\x64\Debug\Proyecto.con_algoritmo.resources
+C:\Proyecto\Proyecto\x64\Debug\Proyecto.eje_algoritmo.resources
+C:\Proyecto\Proyecto\x64\Debug\Proyecto.com_algoritmo.resources
+C:\Proyecto\Proyecto\x64\Debug\Proyecto.Diagrama.resources
+C:\Proyecto\Proyecto\x64\Debug\Proyecto.Nota.resources
